@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Šminka Ocenka</string>
+    <string name="title">Dali e dobro našminkana?</string>
+    <string name="subtitle">Slikaj, izberi slika od galerija ili zalepi link do slika. Aplikacijata go ocenuva izgledot na šminkata.</string>
+    <string name="btn_camera">Slikaj</string>
+    <string name="btn_gallery">Galerija</string>
+    <string name="btn_link">Od link</string>
+    <string name="placeholder">Sè ušte nema slika</string>
+    <string name="link_title">Slika od internet</string>
+    <string name="link_hint">https://… (link do slika)</string>
+    <string name="link_load">Včitaj</string>
+    <string name="cancel">Otkaži</string>
+    <string name="tips_title">Soveti</string>
+    <string name="parts_title">Detali</string>
+    <string name="disclaimer">Ova e približna avtomatska procenka na šminkata (boja, definiranost, izramnetost), a ne na ubavinata. Rezultatot zavisi od svetlinata i agolot. Slikite se obrabotuvaat na uredot; internet se koristi samo za prezemanje na slika od link što kje go vnesete.</string>
+    <string name="err_no_camera">Ne e pronajdena aplikacija za kamera.</string>
+    <string name="err_load">Slikata ne može da se včita.</string>
+    <string name="err_no_face">Ne e pronajdeno lice. Probaj frontalna slika, dobro osvetlena, so liceto jasno vidlivo.</string>
+    <string name="err_link">Vnesete validen link do slika (https).</string>
+    <string name="err_download">Ne uspea prezemanjeto na slikata.</string>
+</resources>
